@@ -1,0 +1,1329 @@
+{
+ "version": 1,
+ "reviewedOn": "29/09/2026",
+ "countries": [
+  {
+   "origin": "Birmanie",
+   "aliases": [
+    "myanmar",
+    "burma",
+    "burmese",
+    "birman",
+    "mogok",
+    "mong hsu",
+    "mongshu"
+   ],
+   "level": 3,
+   "stones": "Rubis, spinelle, saphir, péridot, jade",
+   "headline": "Filière sous sanctions depuis le coup d'État de 2021 ; filière « propre » quasi impossible à prouver.",
+   "reasons": [
+    "Myanma Gems Enterprise (entreprise d'État qui délivre licences et redevances) sanctionnée par les États-Unis, l'UE, le Royaume-Uni et le Canada.",
+    "Sociétés liées à l'armée (Myanmar Ruby Enterprise, Myanmar Imperial Jade…) sous sanctions OFAC.",
+    "Mogok passée sous contrôle d'un groupe armé (TNLA) en 2024, puis revenue à l'armée après un cessez-le-feu.",
+    "Blanchiment d'origine connu via la Thaïlande, le Sri Lanka et les Émirats."
+   ],
+   "sanctions": "US : sanctions sur MGE et entités liées (amendes par infraction > 370 000 $). UE / UK : MGE sanctionnée. Clients US : pierre birmane = refus quasi systématique.",
+   "watch": [
+    "Nouvelles désignations OFAC / UE dans la filière gemmes",
+    "Contrôles renforcés sur les pierres « Thaïlande » ou « Sri Lanka » d'origine douteuse",
+    "Évolution politique de la junte (élections, cessez-le-feu)"
+   ],
+   "newsQuery": "(Myanmar OR Burma) (ruby OR gem OR jade OR Mogok) (sanctions OR junta OR military)"
+  },
+  {
+   "origin": "Afghanistan",
+   "aliases": [
+    "panjshir",
+    "panjsher",
+    "badakhshan afghan",
+    "afghan"
+   ],
+   "level": 2,
+   "stones": "Émeraude (Panjshir), lapis-lazuli, spinelle, tourmaline, kunzite",
+   "headline": "Mines contrôlées par le régime taliban ; plusieurs dirigeants sur les listes de sanctions de l'ONU.",
+   "reasons": [
+    "Les talibans signent des contrats miniers (gemmes, or, cuivre) depuis 2021 et en tirent des revenus.",
+    "Enquêtes (Global Witness) : les mines de lapis ont financé talibans et groupes armés.",
+    "2026 : hausse des violences anti-talibans au Badakhshan (22 incidents armés de janvier à juillet selon ACLED)."
+   ],
+   "sanctions": "ONU / US / UE : sanctions sur des dirigeants et entités talibans (pas d'interdiction générale sur les gemmes afghanes). Risque : paiement indirect à une entité sanctionnée.",
+   "watch": [
+    "Sanctions ciblant les revenus miniers talibans",
+    "Accord US–talibans sur les minerais (peut aller dans les deux sens)",
+    "Combats au Badakhshan / Panjshir"
+   ],
+   "newsQuery": "Afghanistan Taliban (mining OR emerald OR lapis OR gemstone OR Badakhshan)"
+  },
+  {
+   "origin": "Mozambique",
+   "aliases": [
+    "montepuez",
+    "cabo delgado",
+    "niassa",
+    "nampula",
+    "mavuco",
+    "mozambican"
+   ],
+   "level": 2,
+   "stones": "Rubis (Montepuez), tourmaline cuprifère « Paraïba », grenat",
+   "headline": "Insurrection de l'État islamique au Mozambique dans la zone des rubis ; attaques à 15–35 km de Montepuez depuis mai 2026.",
+   "reasons": [
+    "Attaques de villages proches de la mine de Montepuez depuis mai 2026, suspension temporaire des opérations.",
+    "L'État islamique au Mozambique cherche de nouveaux revenus : rançons et présence accrue dans les zones minières d'or et de gemmes.",
+    "Incursion au Niassa le 3 septembre 2026 : le conflit s'étend.",
+    "Mineurs illégaux et syndicats de contrebande sortent des rubis du pays."
+   ],
+   "sanctions": "Aucune sanction sur les gemmes mozambicaines. L'État islamique au Mozambique est désigné organisation terroriste par les États-Unis : tout paiement qui l'atteindrait est interdit.",
+   "watch": [
+    "Désignations visant les réseaux de contrebande de rubis",
+    "Exigence de traçabilité « mine à marché » pour le rubis mozambicain",
+    "Extension des attaques vers Nampula (tourmaline)"
+   ],
+   "newsQuery": "Mozambique (ruby OR Montepuez OR \"Cabo Delgado\" OR Niassa OR gemstone) (insurgents OR attack OR mine)"
+  },
+  {
+   "origin": "Éthiopie",
+   "aliases": [
+    "ethiopia",
+    "ethiopian",
+    "welo",
+    "wollo",
+    "wello",
+    "shakiso",
+    "ethiopie"
+   ],
+   "level": 2,
+   "stones": "Opale (Welo), émeraude (Shakiso), saphir",
+   "headline": "Offensive rebelle lancée le 23/09/2026 au Tigré, en Afar et en Amhara — y compris le Nord-Wollo, région de l'opale.",
+   "reasons": [
+    "Coalition de groupes armés contre le gouvernement fédéral : plus grosse escalade depuis la guerre du Tigré (2020–2022).",
+    "Combats signalés dans le Nord-Wollo (Raya Kobo, Lasta, Gidan).",
+    "Risque de retour à une guerre totale (International Crisis Group, NPR, septembre 2026)."
+   ],
+   "sanctions": "Aucune sanction sur les gemmes éthiopiennes. Précédent : régime de sanctions US créé en 2021 pendant la guerre du Tigré.",
+   "watch": [
+    "Combats autour de Wollo / Delanta (opale)",
+    "Réactivation de sanctions US ou UE liées au conflit",
+    "Coupures de routes / d'exportations"
+   ],
+   "newsQuery": "Ethiopia (Amhara OR Wollo OR Tigray OR opal OR mining) (offensive OR fighting OR sanctions)"
+  },
+  {
+   "origin": "Nigeria",
+   "aliases": [
+    "nigerian",
+    "nasarawa",
+    "kaduna",
+    "plateau",
+    "jos",
+    "ogbomosho",
+    "oyo"
+   ],
+   "level": 2,
+   "stones": "Tourmaline, aigue-marine, saphir, grenat, topaze",
+   "headline": "Environ 80 % de l'extraction du Nord-Ouest serait illégale ; lien avéré entre mines et banditisme.",
+   "reasons": [
+    "Bandits et enlèvements : sites fermés dans le Zamfara, le Kaduna et le Plateau.",
+    "Août 2026 : un gouverneur désigne l'extraction illégale comme moteur de l'insécurité.",
+    "Réseaux étrangers d'extraction non autorisée démantelés (septembre 2026)."
+   ],
+   "sanctions": "Aucune sanction sur les gemmes nigérianes. Risque : financement indirect de groupes armés.",
+   "watch": [
+    "Interdictions d'export de pierres brutes",
+    "Enquêtes « or / gemmes du sang » au Nigeria",
+    "Violences dans le Nasarawa ou le Plateau"
+   ],
+   "newsQuery": "Nigeria (illegal mining OR gemstone OR tourmaline) (bandits OR banditry OR attack)"
+  },
+  {
+   "origin": "Russie",
+   "aliases": [
+    "russia",
+    "russian",
+    "oural",
+    "ural",
+    "yakoutie"
+   ],
+   "level": 2,
+   "stones": "Démantoïde, alexandrite et émeraude (Oural), charoïte ; diamant",
+   "headline": "Diamants russes interdits dans l'UE ; pierres de couleur naturelles pas encore visées — risque d'extension.",
+   "reasons": [
+    "UE (12e paquet de sanctions) : interdiction des diamants russes, y compris taillés dans un pays tiers ; déclaration d'origine obligatoire depuis le 01/01/2026.",
+    "Pierres synthétiques ou reconstituées russes interdites à l'import dans l'UE.",
+    "Pierres de couleur naturelles russes non visées, sauf serties dans des bijoux en or (or russe)."
+   ],
+   "sanctions": "UE / US / UK / G7 : diamants russes interdits. Pierres de couleur naturelles : pas d'interdiction UE à ce jour.",
+   "watch": [
+    "Nouveau paquet de sanctions UE élargi aux pierres de couleur",
+    "Contrôles d'origine sur les alexandrites et démantoïdes",
+    "Traçabilité exigée par les clients"
+   ],
+   "newsQuery": "EU sanctions Russia (gemstones OR diamonds OR jewellery) package"
+  },
+  {
+   "origin": "Iran",
+   "aliases": [
+    "iranian",
+    "persan",
+    "persian",
+    "neyshabur",
+    "nishapur"
+   ],
+   "level": 3,
+   "stones": "Turquoise (Neyshabur)",
+   "headline": "Embargo commercial américain quasi total ; turquoise iranienne interdite pour toute personne ou vente US.",
+   "reasons": [
+    "Le règlement américain sur les sanctions contre l'Iran interdit à toute personne américaine d'importer ou de faciliter le commerce de biens iraniens."
+   ],
+   "sanctions": "US : embargo (ITSR). UE : sanctions ciblées. Ne pas proposer à un client américain.",
+   "watch": [
+    "Sanctions secondaires US visant les acheteurs non américains"
+   ],
+   "newsQuery": "Iran sanctions OFAC (turquoise OR gemstones OR jewelry)"
+  },
+  {
+   "origin": "Colombie",
+   "aliases": [
+    "colombia",
+    "colombian",
+    "muzo",
+    "coscuez",
+    "chivor",
+    "boyaca",
+    "boyacá"
+   ],
+   "level": 1,
+   "stones": "Émeraude (Muzo, Coscuez, Chivor)",
+   "headline": "Filière historiquement liée à la violence et au crime organisé ; des acteurs de l'émeraude sanctionnés par les États-Unis.",
+   "reasons": [
+    "Des « barons » de l'émeraude placés par l'OFAC sur la liste des trafiquants de drogue (ex. Pedro Rincón).",
+    "Groupes armés et cartels (Clan del Golfo, liens Sinaloa) autour de zones minières.",
+    "Affrontements entre groupes armés pour les mines et la drogue : +65 % sur huit mois dans le nord d'Antioquia (2026)."
+   ],
+   "sanctions": "Pas de sanction pays. Sanctions US ciblées sur des individus et sociétés de la filière (liste narcotrafic).",
+   "watch": [
+    "Nouvelles désignations OFAC d'acteurs de l'émeraude",
+    "Violences dans le Boyacá",
+    "Privilégier les mines traçables (ex. Muzo) et les documents d'origine"
+   ],
+   "newsQuery": "Colombia emerald (Boyaca OR Muzo OR mining) (violence OR OFAC OR sanctions OR armed)"
+  },
+  {
+   "origin": "Madagascar",
+   "aliases": [
+    "malagasy",
+    "ilakaka",
+    "andranondambo",
+    "ambondromifehy",
+    "didy",
+    "sakaraha"
+   ],
+   "level": 1,
+   "stones": "Saphir (Ilakaka, Andranondambo), rubis, tourmaline, émeraude",
+   "headline": "Gouvernement militaire depuis le coup d'État d'octobre 2025 ; permis miniers rouverts en janvier 2026.",
+   "reasons": [
+    "Coup d'État du 12/10/2025 (unité CAPSAT, colonel Randrianirina), après des manifestations contre la corruption et la pauvreté.",
+    "Janvier 2026 : reprise de la délivrance des permis miniers après 16 ans de gel.",
+    "Extraction artisanale très informelle, contrebande vers la Thaïlande et le Sri Lanka."
+   ],
+   "sanctions": "Aucune sanction sur les gemmes malgaches.",
+   "watch": [
+    "Suspension par l'Union africaine / sanctions ciblées",
+    "Nouveau code minier, restrictions sur l'export de brut",
+    "Troubles dans le Sud (Ilakaka)"
+   ],
+   "newsQuery": "Madagascar (sapphire OR mining OR Ilakaka) (junta OR military OR sanctions OR permits)"
+  },
+  {
+   "origin": "Tanzanie",
+   "aliases": [
+    "tanzania",
+    "tanzanian",
+    "mererani",
+    "merelani",
+    "winza",
+    "umba",
+    "mahenge",
+    "songea",
+    "tunduru"
+   ],
+   "level": 1,
+   "stones": "Tanzanite, spinelle (Mahenge), saphir, rubis (Winza), tsavorite",
+   "headline": "Répression post-électorale (2025) : sanction US contre un haut gradé de la police, aide UE gelée, loi US en préparation.",
+   "reasons": [
+    "21/05/2026 : sanction US contre un commissaire de police pour violations des droits humains.",
+    "Juin 2026 : une commission du Sénat américain avance une loi de révision des relations (sanctions possibles).",
+    "L'UE maintient le gel de 156 M€ d'aide ; licences minières resserrées en 2026."
+   ],
+   "sanctions": "Sanctions US individuelles seulement. Pas de restriction sur les gemmes.",
+   "watch": [
+    "Adoption de la loi US sur la Tanzanie",
+    "Durcissement des licences ou de l'export (tanzanite)",
+    "Nouvelles manifestations"
+   ],
+   "newsQuery": "Tanzania (sanctions OR mining OR tanzanite) (crackdown OR licence OR election)"
+  },
+  {
+   "origin": "Pakistan",
+   "aliases": [
+    "pakistani",
+    "swat",
+    "hunza",
+    "kohistan",
+    "skardu",
+    "gilgit",
+    "khyber"
+   ],
+   "level": 1,
+   "stones": "Émeraude (Swat), péridot (Kohistan), spinelle (Hunza), topaze, aigue-marine",
+   "headline": "Terrorisme en forte hausse au Khyber Pakhtunkhwa, où se trouvent les mines d'émeraude de Swat.",
+   "reasons": [
+    "Le TTP (Tehrik-e-Taliban Pakistan) est classé 3e organisation terroriste la plus meurtrière (indice mondial 2026).",
+    "02/08/2026 : attentat-suicide à Kabal (district de Swat), au moins 16 morts.",
+    "Aucun lien direct établi à ce jour entre les mines d'émeraude et le financement du TTP."
+   ],
+   "sanctions": "Aucune sanction sur les gemmes pakistanaises.",
+   "watch": [
+    "Racket ou prise de contrôle de mines par des groupes armés à Swat",
+    "Opérations militaires dans le Khyber Pakhtunkhwa"
+   ],
+   "newsQuery": "Pakistan (Swat OR \"Khyber Pakhtunkhwa\" OR Hunza) (TTP OR attack OR mining OR emerald)"
+  },
+  {
+   "origin": "Tadjikistan",
+   "aliases": [
+    "tajikistan",
+    "tajik",
+    "pamir",
+    "gbao",
+    "kuh-i-lal",
+    "kukh-i-lal"
+   ],
+   "level": 1,
+   "stones": "Spinelle (Kuh-i-Lal, Pamir)",
+   "headline": "Frontière afghane instable en 2026 ; zone sous permis spécial, avec coupures de routes et de communications.",
+   "reasons": [
+    "13/08/2026 : tirs depuis l'Afghanistan, une victime côté tadjik.",
+    "Déplacements du personnel américain interdits dans les zones frontalières du Haut-Badakhchan (GBAO)."
+   ],
+   "sanctions": "Aucune sanction sur les gemmes tadjikes.",
+   "watch": [
+    "Débordement des combats du Badakhshan afghan",
+    "Spinelle « Pamir » : risque de confusion d'origine avec l'Afghanistan"
+   ],
+   "newsQuery": "Tajikistan (Badakhshan OR GBAO OR Pamir) (border OR clashes OR Taliban)"
+  },
+  {
+   "origin": "Thaïlande",
+   "aliases": [
+    "thailand",
+    "thai",
+    "chanthaburi",
+    "bangkok",
+    "siam"
+   ],
+   "level": 1,
+   "stones": "Plaque tournante (taille, chauffe) ; peu d'extraction",
+   "headline": "Première plaque tournante du blanchiment d'origine des rubis birmans.",
+   "reasons": [
+    "Des pierres birmanes entrent par des routes informelles et ressortent avec des documents thaïlandais."
+   ],
+   "sanctions": "Aucune. Le risque porte sur la vraie origine de la pierre.",
+   "watch": [
+    "Enquêtes sur le transit de rubis birmans",
+    "Exiger un certificat de labo avec origine pour les rubis et spinelles"
+   ],
+   "newsQuery": "Thailand Chanthaburi (Myanmar OR Burmese) (ruby OR gems) smuggling"
+  },
+  {
+   "origin": "Ceylan",
+   "aliases": [
+    "sri lanka",
+    "srilanka",
+    "ceylon",
+    "ratnapura",
+    "elahera"
+   ],
+   "level": 0,
+   "stones": "Saphir, spinelle, chrysobéryl, grenat",
+   "headline": "Extraction stable ; attention seulement aux pierres birmanes qui transitent par le Sri Lanka.",
+   "reasons": [
+    "Route de transit connue pour relabelliser des pierres d'autres origines."
+   ],
+   "sanctions": "Aucune.",
+   "watch": [
+    "Enquêtes de transit sur des pierres birmanes"
+   ],
+   "newsQuery": "\"Sri Lanka\" (gem OR sapphire) (smuggling OR export OR ban)"
+  },
+  {
+   "origin": "Zimbabwe",
+   "aliases": [
+    "zimbabwean",
+    "sandawana",
+    "marange"
+   ],
+   "level": 1,
+   "stones": "Émeraude (Sandawana) ; diamant (Marange)",
+   "headline": "Programme de sanctions US levé en 2024 ; sanctions « Magnitsky » maintenues sur des dirigeants.",
+   "reasons": [
+    "UE : embargo sur les armes prolongé jusqu'en février 2027 ; gels d'avoirs levés.",
+    "Diamants de Marange historiquement controversés."
+   ],
+   "sanctions": "US : sanctions Global Magnitsky contre des responsables. UE : embargo sur les armes seulement.",
+   "watch": [
+    "Nouvelles désignations Magnitsky dans le secteur minier"
+   ],
+   "newsQuery": "Zimbabwe (sanctions OR mining) (Magnitsky OR emerald OR Marange)"
+  },
+  {
+   "origin": "Zambie",
+   "aliases": [
+    "zambia",
+    "zambian",
+    "kagem",
+    "kafubu"
+   ],
+   "level": 0,
+   "stones": "Émeraude (Kagem), améthyste",
+   "headline": "Filière industrielle traçable.",
+   "reasons": [],
+   "sanctions": "Aucune.",
+   "watch": [
+    "Politique fiscale / export"
+   ],
+   "newsQuery": "Zambia emerald (Kagem OR mining)"
+  },
+  {
+   "origin": "Brésil",
+   "aliases": [
+    "brazil",
+    "brazilian",
+    "bresil",
+    "minas gerais",
+    "bahia",
+    "paraiba"
+   ],
+   "level": 0,
+   "stones": "Tourmaline, aigue-marine, émeraude, topaze, alexandrite",
+   "headline": "Extraction souvent informelle (garimpos), sans risque de conflit.",
+   "reasons": [
+    "Travail informel ; enjeux environnementaux (zones indigènes pour l'or, rarement les gemmes)."
+   ],
+   "sanctions": "Aucune.",
+   "watch": [
+    "Opérations contre l'orpaillage illégal étendues aux gemmes"
+   ],
+   "newsQuery": "Brazil (gemstone OR garimpo) (illegal mining OR crackdown)"
+  },
+  {
+   "origin": "Inde",
+   "aliases": [
+    "india",
+    "indian",
+    "jaipur",
+    "orissa",
+    "odisha"
+   ],
+   "level": 0,
+   "stones": "Taille (Jaipur) ; grenat, rubis, émeraude en petit volume",
+   "headline": "Centre de taille ; peu de risque lié à l'extraction.",
+   "reasons": [],
+   "sanctions": "Aucune.",
+   "watch": [
+    "Pierres de transit d'origine sanctionnée"
+   ],
+   "newsQuery": "India Jaipur gemstone (sanctions OR smuggling)"
+  },
+  {
+   "origin": "Cachemire",
+   "aliases": [
+    "kashmir",
+    "kashmiri",
+    "padar",
+    "zanskar"
+   ],
+   "level": 0,
+   "stones": "Saphir (production historique)",
+   "headline": "Production quasi arrêtée ; zone de tension indo-pakistanaise, sans effet sur le stock ancien.",
+   "reasons": [],
+   "sanctions": "Aucune.",
+   "watch": [
+    "Tensions sur la ligne de contrôle"
+   ],
+   "newsQuery": "Kashmir sapphire mine"
+  },
+  {
+   "origin": "Vietnam",
+   "aliases": [
+    "vietnamese",
+    "luc yen",
+    "yen bai"
+   ],
+   "level": 0,
+   "stones": "Spinelle, rubis (Luc Yen)",
+   "headline": "Extraction stable.",
+   "reasons": [],
+   "sanctions": "Aucune.",
+   "watch": [],
+   "newsQuery": "Vietnam Luc Yen (ruby OR spinel)"
+  },
+  {
+   "origin": "Namibie",
+   "aliases": [
+    "namibia",
+    "namibian"
+   ],
+   "level": 0,
+   "stones": "Tourmaline, démantoïde, aigue-marine",
+   "headline": "Stable.",
+   "reasons": [],
+   "sanctions": "Aucune.",
+   "watch": [],
+   "newsQuery": "Namibia gemstone mining"
+  },
+  {
+   "origin": "Kenya",
+   "aliases": [
+    "kenyan",
+    "taita",
+    "tsavo"
+   ],
+   "level": 0,
+   "stones": "Tsavorite, rubis, tourmaline",
+   "headline": "Stable ; tensions locales ponctuelles dans les zones minières de Taita-Taveta.",
+   "reasons": [],
+   "sanctions": "Aucune.",
+   "watch": [
+    "Conflits fonciers autour des mines"
+   ],
+   "newsQuery": "Kenya Taita Taveta (gemstone OR tsavorite) mining"
+  },
+  {
+   "origin": "Australie",
+   "aliases": [
+    "australia",
+    "australian"
+   ],
+   "level": 0,
+   "stones": "Opale, saphir",
+   "headline": "Stable.",
+   "reasons": [],
+   "sanctions": "Aucune.",
+   "watch": [],
+   "newsQuery": "Australia opal sapphire mining"
+  },
+  {
+   "origin": "USA",
+   "aliases": [
+    "united states",
+    "montana",
+    "etats-unis",
+    "états-unis"
+   ],
+   "level": 0,
+   "stones": "Saphir (Montana)",
+   "headline": "Stable.",
+   "reasons": [],
+   "sanctions": "Aucune.",
+   "watch": [],
+   "newsQuery": "Montana sapphire mining"
+  }
+ ],
+ "zones": [
+  {
+   "id": "mogok",
+   "name": "Mogok (rubis, spinelle)",
+   "country": "Birmanie",
+   "lat": 22.92,
+   "lon": 96.5,
+   "radiusKm": 35
+  },
+  {
+   "id": "monghsu",
+   "name": "Mong Hsu (rubis)",
+   "country": "Birmanie",
+   "lat": 21.9,
+   "lon": 98.35,
+   "radiusKm": 30
+  },
+  {
+   "id": "hpakant",
+   "name": "Hpakant (jade)",
+   "country": "Birmanie",
+   "lat": 25.61,
+   "lon": 96.31,
+   "radiusKm": 30
+  },
+  {
+   "id": "montepuez",
+   "name": "Montepuez (rubis)",
+   "country": "Mozambique",
+   "lat": -13.15,
+   "lon": 39.1,
+   "radiusKm": 45
+  },
+  {
+   "id": "cabodelgado",
+   "name": "Cabo Delgado (insurrection)",
+   "country": "Mozambique",
+   "lat": -11.6,
+   "lon": 40.1,
+   "radiusKm": 140
+  },
+  {
+   "id": "niassa",
+   "name": "Niassa",
+   "country": "Mozambique",
+   "lat": -12.1,
+   "lon": 37.6,
+   "radiusKm": 90
+  },
+  {
+   "id": "mavuco",
+   "name": "Mavuco / Alto Ligonha (tourmaline cuprifère)",
+   "country": "Mozambique",
+   "lat": -15.5,
+   "lon": 38.3,
+   "radiusKm": 45
+  },
+  {
+   "id": "wollo",
+   "name": "Wollo / Delanta (opale)",
+   "country": "Éthiopie",
+   "lat": 11.6,
+   "lon": 39.1,
+   "radiusKm": 80
+  },
+  {
+   "id": "tigray",
+   "name": "Tigré",
+   "country": "Éthiopie",
+   "lat": 13.9,
+   "lon": 38.8,
+   "radiusKm": 140
+  },
+  {
+   "id": "shakiso",
+   "name": "Shakiso (émeraude)",
+   "country": "Éthiopie",
+   "lat": 5.75,
+   "lon": 38.9,
+   "radiusKm": 35
+  },
+  {
+   "id": "panjshir",
+   "name": "Panjshir (émeraude)",
+   "country": "Afghanistan",
+   "lat": 35.4,
+   "lon": 69.8,
+   "radiusKm": 50
+  },
+  {
+   "id": "sarsang",
+   "name": "Badakhshan / Sar-e-Sang (lapis, spinelle)",
+   "country": "Afghanistan",
+   "lat": 36.2,
+   "lon": 70.8,
+   "radiusKm": 60
+  },
+  {
+   "id": "swat",
+   "name": "Swat (émeraude)",
+   "country": "Pakistan",
+   "lat": 34.78,
+   "lon": 72.37,
+   "radiusKm": 40
+  },
+  {
+   "id": "kohistan",
+   "name": "Kohistan (péridot)",
+   "country": "Pakistan",
+   "lat": 35.1,
+   "lon": 73.4,
+   "radiusKm": 35
+  },
+  {
+   "id": "hunza",
+   "name": "Hunza (spinelle, rubis)",
+   "country": "Pakistan",
+   "lat": 36.3,
+   "lon": 74.6,
+   "radiusKm": 35
+  },
+  {
+   "id": "kuhilal",
+   "name": "Kuh-i-Lal, Pamir (spinelle)",
+   "country": "Tadjikistan",
+   "lat": 37.1,
+   "lon": 71.6,
+   "radiusKm": 40
+  },
+  {
+   "id": "ilakaka",
+   "name": "Ilakaka (saphir)",
+   "country": "Madagascar",
+   "lat": -22.68,
+   "lon": 45.22,
+   "radiusKm": 45
+  },
+  {
+   "id": "ambondro",
+   "name": "Ambondromifehy (saphir)",
+   "country": "Madagascar",
+   "lat": -12.9,
+   "lon": 49.2,
+   "radiusKm": 30
+  },
+  {
+   "id": "muzo",
+   "name": "Muzo / Coscuez (émeraude)",
+   "country": "Colombie",
+   "lat": 5.53,
+   "lon": -74.1,
+   "radiusKm": 30
+  },
+  {
+   "id": "chivor",
+   "name": "Chivor (émeraude)",
+   "country": "Colombie",
+   "lat": 4.88,
+   "lon": -73.37,
+   "radiusKm": 20
+  },
+  {
+   "id": "mererani",
+   "name": "Mererani (tanzanite)",
+   "country": "Tanzanie",
+   "lat": -3.56,
+   "lon": 37.03,
+   "radiusKm": 20
+  },
+  {
+   "id": "winza",
+   "name": "Winza (rubis)",
+   "country": "Tanzanie",
+   "lat": -6.07,
+   "lon": 35.56,
+   "radiusKm": 20
+  },
+  {
+   "id": "mahenge",
+   "name": "Mahenge (spinelle)",
+   "country": "Tanzanie",
+   "lat": -8.68,
+   "lon": 36.72,
+   "radiusKm": 25
+  },
+  {
+   "id": "plateau",
+   "name": "Plateau / Nasarawa (tourmaline, aigue-marine)",
+   "country": "Nigeria",
+   "lat": 9.2,
+   "lon": 8.6,
+   "radiusKm": 150
+  },
+  {
+   "id": "oural",
+   "name": "Oural (émeraude, alexandrite, démantoïde)",
+   "country": "Russie",
+   "lat": 57.1,
+   "lon": 61.4,
+   "radiusKm": 90
+  },
+  {
+   "id": "neyshabur",
+   "name": "Neyshabur (turquoise)",
+   "country": "Iran",
+   "lat": 36.3,
+   "lon": 58.8,
+   "radiusKm": 40
+  },
+  {
+   "id": "sandawana",
+   "name": "Sandawana (émeraude)",
+   "country": "Zimbabwe",
+   "lat": -20.9,
+   "lon": 30.1,
+   "radiusKm": 30
+  },
+  {
+   "id": "marange",
+   "name": "Marange (diamant)",
+   "country": "Zimbabwe",
+   "lat": -19.9,
+   "lon": 32.35,
+   "radiusKm": 30
+  },
+  {
+   "id": "chanthaburi",
+   "name": "Chanthaburi (négoce, chauffe)",
+   "country": "Thaïlande",
+   "lat": 12.61,
+   "lon": 102.1,
+   "radiusKm": 25
+  },
+  {
+   "id": "ratnapura",
+   "name": "Ratnapura (saphir)",
+   "country": "Ceylan",
+   "lat": 6.68,
+   "lon": 80.4,
+   "radiusKm": 40
+  },
+  {
+   "id": "kagem",
+   "name": "Kagem (émeraude)",
+   "country": "Zambie",
+   "lat": -13.0,
+   "lon": 28.0,
+   "radiusKm": 30
+  },
+  {
+   "id": "minas",
+   "name": "Minas Gerais (tourmaline, aigue-marine)",
+   "country": "Brésil",
+   "lat": -17.86,
+   "lon": -41.5,
+   "radiusKm": 90
+  },
+  {
+   "id": "taita",
+   "name": "Taita-Taveta (tsavorite)",
+   "country": "Kenya",
+   "lat": -3.4,
+   "lon": 38.4,
+   "radiusKm": 40
+  },
+  {
+   "id": "lucyen",
+   "name": "Luc Yen (spinelle, rubis)",
+   "country": "Vietnam",
+   "lat": 22.1,
+   "lon": 104.7,
+   "radiusKm": 25
+  },
+  {
+   "id": "lightning",
+   "name": "Lightning Ridge (opale)",
+   "country": "Australie",
+   "lat": -29.43,
+   "lon": 147.97,
+   "radiusKm": 40
+  },
+  {
+   "id": "montana",
+   "name": "Montana (saphir)",
+   "country": "USA",
+   "lat": 46.4,
+   "lon": -113.6,
+   "radiusKm": 40
+  },
+  {
+   "id": "padar",
+   "name": "Padar, Cachemire (saphir)",
+   "country": "Cachemire",
+   "lat": 33.4,
+   "lon": 76.2,
+   "radiusKm": 30
+  }
+ ],
+ "events": [
+  {
+   "date": "2008-07",
+   "country": "Birmanie",
+   "zones": [],
+   "level": 3,
+   "title": "JADE Act : les États-Unis interdisent rubis et jade birmans"
+  },
+  {
+   "date": "2016-10",
+   "country": "Birmanie",
+   "zones": [],
+   "level": 1,
+   "title": "Levée des sanctions américaines (transition démocratique)"
+  },
+  {
+   "date": "2021-02",
+   "country": "Birmanie",
+   "zones": [],
+   "level": 2,
+   "title": "Coup d'État militaire du 1er février"
+  },
+  {
+   "date": "2021-04",
+   "country": "Birmanie",
+   "zones": [],
+   "level": 3,
+   "title": "Myanma Gems Enterprise sanctionnée par les États-Unis et l'UE (Royaume-Uni en mai)"
+  },
+  {
+   "date": "2024-07",
+   "country": "Birmanie",
+   "zones": [
+    "mogok"
+   ],
+   "level": 3,
+   "title": "Mogok prise par le groupe armé TNLA"
+  },
+  {
+   "date": "2025",
+   "country": "Birmanie",
+   "zones": [
+    "mogok"
+   ],
+   "level": 3,
+   "title": "Mogok revient à l'armée après un cessez-le-feu négocié avec l'aide de la Chine"
+  },
+  {
+   "date": "2017-10",
+   "country": "Mozambique",
+   "zones": [
+    "cabodelgado"
+   ],
+   "level": 2,
+   "title": "Début de l'insurrection islamiste (attaque de Mocímboa da Praia)"
+  },
+  {
+   "date": "2017-10",
+   "country": "Mozambique",
+   "zones": [
+    "montepuez",
+    "niassa"
+   ],
+   "level": 1,
+   "title": "Province voisine de l'insurrection"
+  },
+  {
+   "date": "2021-03",
+   "country": "Mozambique",
+   "zones": [
+    "cabodelgado"
+   ],
+   "level": 2,
+   "title": "Attaque de Palma"
+  },
+  {
+   "date": "2022-07",
+   "country": "Mozambique",
+   "zones": [
+    "montepuez"
+   ],
+   "level": 2,
+   "title": "Attaques signalées près de la mine de rubis de Montepuez"
+  },
+  {
+   "date": "2022-09",
+   "country": "Mozambique",
+   "zones": [
+    "mavuco"
+   ],
+   "level": 1,
+   "title": "Incursions insurgées dans la province de Nampula"
+  },
+  {
+   "date": "2026-05",
+   "country": "Mozambique",
+   "zones": [
+    "montepuez"
+   ],
+   "level": 2,
+   "title": "Villages attaqués à 15–35 km de Montepuez, opérations suspendues"
+  },
+  {
+   "date": "2026-09",
+   "country": "Mozambique",
+   "zones": [
+    "niassa"
+   ],
+   "level": 2,
+   "title": "Incursion de l'État islamique au Niassa (3 septembre)"
+  },
+  {
+   "date": "2008",
+   "country": "Éthiopie",
+   "zones": [
+    "wollo"
+   ],
+   "level": 0,
+   "title": "Découverte de l'opale du Wollo"
+  },
+  {
+   "date": "2020-11",
+   "country": "Éthiopie",
+   "zones": [
+    "tigray"
+   ],
+   "level": 2,
+   "title": "Début de la guerre du Tigré"
+  },
+  {
+   "date": "2021-07",
+   "country": "Éthiopie",
+   "zones": [
+    "wollo"
+   ],
+   "level": 2,
+   "title": "Les combats atteignent le Wollo"
+  },
+  {
+   "date": "2022-11",
+   "country": "Éthiopie",
+   "zones": [
+    "tigray",
+    "wollo"
+   ],
+   "level": 1,
+   "title": "Accord de paix de Pretoria"
+  },
+  {
+   "date": "2023-08",
+   "country": "Éthiopie",
+   "zones": [
+    "wollo"
+   ],
+   "level": 2,
+   "title": "Insurrection Fano en Amhara, état d'urgence"
+  },
+  {
+   "date": "2026-01",
+   "country": "Éthiopie",
+   "zones": [
+    "tigray"
+   ],
+   "level": 2,
+   "title": "Affrontements entre le TPLF et l'armée fédérale"
+  },
+  {
+   "date": "2026-09",
+   "country": "Éthiopie",
+   "zones": [
+    "tigray",
+    "wollo"
+   ],
+   "level": 2,
+   "title": "Offensive rebelle du 23 septembre (Tigré, Afar, Amhara dont Nord-Wollo)"
+  },
+  {
+   "date": "2026-09",
+   "country": "Éthiopie",
+   "zones": [
+    "shakiso"
+   ],
+   "level": 1,
+   "title": "Pays en guerre dans le Nord : risques logistiques et d'export"
+  },
+  {
+   "date": "2008",
+   "country": "Afghanistan",
+   "zones": [],
+   "level": 1,
+   "title": "Guerre en cours ; mines tenues par des commandants locaux"
+  },
+  {
+   "date": "2016-06",
+   "country": "Afghanistan",
+   "zones": [
+    "sarsang"
+   ],
+   "level": 2,
+   "title": "Global Witness : le lapis finance talibans et groupes armés"
+  },
+  {
+   "date": "2021-08",
+   "country": "Afghanistan",
+   "zones": [],
+   "level": 2,
+   "title": "Prise de Kaboul par les talibans (15 août)"
+  },
+  {
+   "date": "2026-07",
+   "country": "Afghanistan",
+   "zones": [
+    "sarsang"
+   ],
+   "level": 2,
+   "title": "Forte hausse des combats anti-talibans au Badakhshan"
+  },
+  {
+   "date": "2008-11",
+   "country": "Pakistan",
+   "zones": [
+    "swat"
+   ],
+   "level": 2,
+   "title": "Les talibans pakistanais contrôlent Swat et ses mines d'émeraude"
+  },
+  {
+   "date": "2009-05",
+   "country": "Pakistan",
+   "zones": [
+    "swat"
+   ],
+   "level": 1,
+   "title": "Opération militaire : l'armée reprend Swat"
+  },
+  {
+   "date": "2026-08",
+   "country": "Pakistan",
+   "zones": [
+    "swat"
+   ],
+   "level": 1,
+   "title": "Attentat-suicide à Kabal (Swat) : au moins 16 morts"
+  },
+  {
+   "date": "2022-05",
+   "country": "Tadjikistan",
+   "zones": [],
+   "level": 1,
+   "title": "Répression au Haut-Badakhchan (GBAO)"
+  },
+  {
+   "date": "2026-08",
+   "country": "Tadjikistan",
+   "zones": [],
+   "level": 1,
+   "title": "Tirs depuis l'Afghanistan à la frontière"
+  },
+  {
+   "date": "2009-03",
+   "country": "Madagascar",
+   "zones": [],
+   "level": 1,
+   "title": "Coup d'État ; suspension par l'Union africaine, gel des permis miniers"
+  },
+  {
+   "date": "2014-01",
+   "country": "Madagascar",
+   "zones": [],
+   "level": 0,
+   "title": "Retour à l'ordre constitutionnel"
+  },
+  {
+   "date": "2025-10",
+   "country": "Madagascar",
+   "zones": [],
+   "level": 1,
+   "title": "Coup d'État militaire du 12 octobre"
+  },
+  {
+   "date": "2026-01",
+   "country": "Madagascar",
+   "zones": [],
+   "level": 1,
+   "title": "Réouverture des permis miniers après 16 ans de gel"
+  },
+  {
+   "date": "2008",
+   "country": "Colombie",
+   "zones": [],
+   "level": 1,
+   "title": "Après les « guerres vertes » : paix fragile entre barons de l'émeraude"
+  },
+  {
+   "date": "2013-04",
+   "country": "Colombie",
+   "zones": [],
+   "level": 1,
+   "title": "Mort de Víctor Carranza, « tsar de l'émeraude » : luttes de succession"
+  },
+  {
+   "date": "2018-04",
+   "country": "Tanzanie",
+   "zones": [
+    "mererani"
+   ],
+   "level": 0,
+   "title": "Mur de 24 km autour de Mererani (contrôle de la tanzanite)"
+  },
+  {
+   "date": "2025-10",
+   "country": "Tanzanie",
+   "zones": [],
+   "level": 1,
+   "title": "Élections contestées, répression meurtrière"
+  },
+  {
+   "date": "2026-05",
+   "country": "Tanzanie",
+   "zones": [],
+   "level": 1,
+   "title": "Sanction américaine contre un haut gradé de la police"
+  },
+  {
+   "date": "2011",
+   "country": "Nigeria",
+   "zones": [],
+   "level": 1,
+   "title": "Violences intercommunautaires dans l'État du Plateau"
+  },
+  {
+   "date": "2021",
+   "country": "Nigeria",
+   "zones": [],
+   "level": 2,
+   "title": "Explosion du banditisme lié aux mines illégales"
+  },
+  {
+   "date": "2026-08",
+   "country": "Nigeria",
+   "zones": [],
+   "level": 2,
+   "title": "L'extraction illégale désignée comme moteur de l'insécurité"
+  },
+  {
+   "date": "2014-03",
+   "country": "Russie",
+   "zones": [],
+   "level": 1,
+   "title": "Annexion de la Crimée : premières sanctions"
+  },
+  {
+   "date": "2022-02",
+   "country": "Russie",
+   "zones": [],
+   "level": 2,
+   "title": "Invasion de l'Ukraine"
+  },
+  {
+   "date": "2024-01",
+   "country": "Russie",
+   "zones": [],
+   "level": 2,
+   "title": "Interdiction UE des diamants russes (12e paquet)"
+  },
+  {
+   "date": "2026-01",
+   "country": "Russie",
+   "zones": [],
+   "level": 2,
+   "title": "Traçabilité obligatoire des diamants importés dans l'UE"
+  },
+  {
+   "date": "2008",
+   "country": "Iran",
+   "zones": [],
+   "level": 3,
+   "title": "Embargo commercial américain"
+  },
+  {
+   "date": "2018-05",
+   "country": "Iran",
+   "zones": [],
+   "level": 3,
+   "title": "Retrait américain de l'accord nucléaire, sanctions renforcées"
+  },
+  {
+   "date": "2008",
+   "country": "Zimbabwe",
+   "zones": [
+    "sandawana"
+   ],
+   "level": 1,
+   "title": "Sanctions US / UE contre le régime"
+  },
+  {
+   "date": "2008-11",
+   "country": "Zimbabwe",
+   "zones": [
+    "marange"
+   ],
+   "level": 2,
+   "title": "Massacres de Chiadzwa (Marange) par l'armée"
+  },
+  {
+   "date": "2024-03",
+   "country": "Zimbabwe",
+   "zones": [],
+   "level": 1,
+   "title": "Fin du programme de sanctions américain (Magnitsky maintenu)"
+  },
+  {
+   "date": "2026-02",
+   "country": "Zimbabwe",
+   "zones": [],
+   "level": 1,
+   "title": "UE : gels d'avoirs levés, embargo sur les armes prolongé"
+  },
+  {
+   "date": "2021-04",
+   "country": "Thaïlande",
+   "zones": [],
+   "level": 1,
+   "title": "Transit de pierres birmanes sous sanctions"
+  }
+ ],
+ "outlooks": [
+  {
+   "country": "Birmanie",
+   "trend": "stable",
+   "text": "Aucune levée des sanctions en vue ; nouvelles désignations possibles."
+  },
+  {
+   "country": "Mozambique",
+   "trend": "up",
+   "text": "Le conflit s'étend (Niassa). Exigences de traçabilité sur le rubis probables ; sanctions sur les gemmes peu probables à court terme."
+  },
+  {
+   "country": "Éthiopie",
+   "trend": "up",
+   "text": "Si l'offensive s'installe dans le Wollo : export d'opale perturbé. Sanctions américaines possibles (précédent de 2021)."
+  },
+  {
+   "country": "Afghanistan",
+   "trend": "stable",
+   "text": "Deux scénarios : durcissement des sanctions, ou accord américano-taliban sur les minerais."
+  },
+  {
+   "country": "Nigeria",
+   "trend": "stable",
+   "text": "Insécurité durable dans les zones minières ; interdictions locales possibles."
+  },
+  {
+   "country": "Russie",
+   "trend": "up",
+   "text": "Élargissement possible des sanctions UE aux pierres de couleur : à vérifier à chaque nouveau paquet."
+  },
+  {
+   "country": "Iran",
+   "trend": "stable",
+   "text": "Embargo américain maintenu."
+  },
+  {
+   "country": "Colombie",
+   "trend": "stable",
+   "text": "Violences localisées ; nouvelles désignations OFAC possibles."
+  },
+  {
+   "country": "Madagascar",
+   "trend": "stable",
+   "text": "Réforme minière du gouvernement militaire : risque de restrictions sur l'export de brut."
+  },
+  {
+   "country": "Tanzanie",
+   "trend": "up",
+   "text": "Loi américaine en préparation : sanctions possibles, impact direct limité sur la tanzanite."
+  },
+  {
+   "country": "Pakistan",
+   "trend": "up",
+   "text": "Terrorisme en hausse au Khyber Pakhtunkhwa, où se trouve Swat."
+  },
+  {
+   "country": "Tadjikistan",
+   "trend": "up",
+   "text": "Débordement possible des combats du Badakhshan afghan."
+  },
+  {
+   "country": "Thaïlande",
+   "trend": "stable",
+   "text": "Contrôles d'origine accrus sur les rubis et spinelles."
+  },
+  {
+   "country": "Zimbabwe",
+   "trend": "down",
+   "text": "Normalisation progressive avec les États-Unis et l'UE."
+  }
+ ]
+}
